@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Bank Banco
+Welcome to Bank Banco! We are a Five Rating Bank. Costumer Service is our Number One priority. We want to make sure you have the best Experience banking experience ever!
 
-You can use the [editor on GitHub](https://github.com/Bloxrrey/Bank-Banco/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Rules
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Be Respectful To Staff and Costumers.
+2. No Spamming.
+3. Do not Break Any of Roblox’s Rules.
+4. If Ban go appeal do not Rejoin Group On Any Alt.
+5. No Trolling.
 
-### Markdown
+## The Team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Links
+https://www.roblox.com/groups/6791525/Bank-Banco#!/about
 
-```markdown
-Syntax highlighted code block
+## Current Positions
+https://forms.gle/CZguK9xxNTaNtKyk7
 
-# Header 1
-## Header 2
-### Header 3
+Thank You for Choosing Bank Banco!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bloxrrey/Bank-Banco/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
