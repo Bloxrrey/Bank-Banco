@@ -10,9 +10,11 @@ Welcome to Bank Banco! We are a Five Rating Bank. Costumer Service is our Number
 5. No Trolling.
 
 ## The Team
+Our team is relatively small consisting of CloutInsight, Bloxrrey, and x_Foam. But we could not have done any of this without out players!
 
 ## Links
 https://www.roblox.com/groups/6791525/Bank-Banco#!/about
+https://discord.gg/q7jknRB
 
 ## Current Positions
 https://forms.gle/CZguK9xxNTaNtKyk7
